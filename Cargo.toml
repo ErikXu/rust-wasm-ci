@@ -1,5 +1,5 @@
 [package]
-name = "envoy-filter"
+name = "envoy_filter"
 version = "0.1.0"
 authors = ["ErikXu"]
 edition = "2018"
